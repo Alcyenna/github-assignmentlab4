@@ -6,9 +6,9 @@ Bairagi	Soumyabrata X
 Bakkass	Shaymaa X
 Barry	Ibrahim X
 Belaïdi	William X
-Benayoun	Laëtitia X
+Benayoun	Laëtitia
 Bensimon	Roy
-Berdah	Adam X
+Berdah	Adam
 Bidault	Grégoire x
 Blivet	Alexandre  X
 Brochier	Felix X
@@ -86,6 +86,6 @@ Xie	Kaixin
 Youssef	Tracy
 Yu	Chenghao x
 Zana	Solal X
-Zhang	Wenxu X
+Zhang	Wenxu
 Zheng	Wenlei
 Digua Mehdi X
